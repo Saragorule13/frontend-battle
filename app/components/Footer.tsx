@@ -8,7 +8,7 @@ export default function Footer() {
               href="#"
               className="navbar-logo"
               style={{ marginBottom: "0.5rem" }}
-              aria-label="NexusAI Home"
+              aria-label="Atlas Home"
             >
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img
@@ -19,7 +19,7 @@ export default function Footer() {
                 height={24}
                 aria-hidden="true"
               />
-              <span>NexusAI</span>
+              <span>Atlas</span>
             </a>
             <p>
               Intelligent data automation that scales with your business.
@@ -59,7 +59,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <span>&copy; {new Date().getFullYear()} NexusAI. All rights reserved.</span>
+          <span>&copy; {new Date().getFullYear()} Atlas. All rights reserved.</span>
           <span>Built with precision</span>
         </div>
       </div>

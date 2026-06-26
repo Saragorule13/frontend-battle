@@ -31,7 +31,7 @@ export default function Home() {
         </div>
 
         <div className="reveal">
-          <Testimonials />
+          {/* <Testimonials /> */}
         </div>
 
         <div className="reveal">
